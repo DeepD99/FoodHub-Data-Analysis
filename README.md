@@ -63,13 +63,5 @@ You can use the following tools for analysis:
 - **Jupyter Notebook**
 - **Pandas, NumPy, Matplotlib, Seaborn** for data analysis and visualization
 - **Scikit-learn** for machine learning (if required)
-
----
-
-## Contributing
-If you have suggestions or improvements, feel free to submit a pull request!
-
----
-
 ## License
 This project is licensed under the MIT License.
